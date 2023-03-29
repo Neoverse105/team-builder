@@ -14033,7 +14033,7 @@ var players = [
         "Gender": "Male",
         "Position": "FW",
         "Element": "Wood",
-        "Sprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/9/9f/Toomu_sprite.png/revision/latest?cb=20180916121254",
+        "Sprite": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b1/%28Z%29_Torm_sprite.png/revision/latest?cb=20180916121254",
         "EnglishTeam": "Zan",
         "JapaneseTeam": "Zan",
         "TeamSprite": "https://vignette.wikia.nocookie.net/inazuma-eleven/images/f/f0/Zan_emblem.png/revision/latest?cb=20171126230750",
